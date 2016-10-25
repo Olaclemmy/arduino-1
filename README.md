@@ -1,7 +1,7 @@
-## arduino
+# arduino
 Helper libraries for Arduino projects
 
-# Soft SN3218
+## Soft SN3218
 SN3218 is a great inexpensive PWM controller with 18 channels, sold as a breakout board by Pimoroni, and as a standalone chip eg on Aliexpress. 
 
 Unfortunately its I2C address is hardwired, meaning you can only run one of them with the hardware I2C bus.
